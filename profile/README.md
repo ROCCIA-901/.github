@@ -1,4 +1,4 @@
-![introduction](https://github.com/ROCCIA-901/.github/assets/74606041/60b64d75-0170-4cfe-b11b-31f44550497a)
+![introduction](https://github.com/ROCCIA-901/.github/assets/74606041/895a8d3c-138f-4b64-96b1-23bea6b9a9db)
 
 ## 프로젝트 설명
 
