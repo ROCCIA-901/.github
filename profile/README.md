@@ -51,8 +51,13 @@ ROCCIA 901 동아리는 2019년에 처음 결성되어 5년 동안 지속되고 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <br>
 </div>
+<br>
 
+## Entity-Relation Diagram
+<img src="https://github.com/ROCCIA-901/.github/assets/74606041/142154df-fca4-4bd2-a45e-b59190918186" alt="roccia-901 erd" width="60%">
+<br>
 
-
+## Server Architecture
+<img src="https://github.com/ROCCIA-901/.github/assets/74606041/d6d7e63b-1aec-4c18-8502-eaf68506be44" alt="roccia-901 server architecture" width="60%">
 
 
