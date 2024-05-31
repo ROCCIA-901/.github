@@ -40,6 +40,7 @@ ROCCIA 901은 2019년에 결성되어 현재까지 지속되고 있는 클라이
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=for-the-badge&logo=Amazon%20Route%2053&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
   <br>
 </div>
 
