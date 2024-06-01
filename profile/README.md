@@ -55,14 +55,14 @@ ROCCIA 901은 2019년에 결성되어 현재까지 지속되고 있는 클라이
 </div>
 <br>
 
-## 프로젝트 산출물
+## 📁 프로젝트 산출물
 [와이어프레임](https://www.figma.com/design/AVboXlj1r6BxFpeHc4QbBj/ROCCIA-901-%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C-%EB%B0%8F-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&t=h0eAoZvdrkwho6HG-0)  
 [API 명세서](https://api.roccia-901.com:8443/docs/swagger/)  
 [트러블슈팅](https://velog.io/@ehddnr7355/series/Troubleshooting)  
 [서비스 개발기](https://velog.io/@ehddnr7355/series/ROCCIA-901-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0)  
 
 ### Entity-Relation Diagram
-<img src="https://github.com/ROCCIA-901/.github/assets/74606041/142154df-fca4-4bd2-a45e-b59190918186" alt="roccia-901 erd" width="70%">
+<img src="https://github.com/ROCCIA-901/.github/assets/74606041/9fdd748f-6150-4575-a034-5f3d3bb55d84" alt="roccia-901 erd" width="70%">
 <br>
 
 ### Server Architecture
